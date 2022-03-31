@@ -3,7 +3,7 @@ clone repo and start a local server in the repo directory
 For example using python 3:
 python3 -m http.server 8000
 
-multi.html will display the multi mosaic for the concordances in the repo root.
+multi.html will display the summary mosaics for the concordances in the repo root.
 
 Additional concordances can be downloaded using the modNLP concordancing software
 
